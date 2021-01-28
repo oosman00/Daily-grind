@@ -90,7 +90,7 @@ case 3:
         color: "magenta",
         name: "FEAR",
         pic: "images/drip.jpg",
-        alt: "A pic of drip coffee",
+        alt: "One of the best songs off the DAMN album",
         day: "Wednesday",
         desc: 'Some days you just need the drip!',
         link:"//www.youtube.com/watch?v=jdbQYDkNjfk",
@@ -122,7 +122,7 @@ case 5:
     coffee = {
         color: "green",
         name: "Joey",
-        pic: "images/Cappuccino.jpg",
+        pic: "images/pumpkin-spice-latte.jpg",
         alt: "Joey bada$$ music video",
         day: "Friday",
         desc: `Joey's breakthrough song`,
